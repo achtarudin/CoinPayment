@@ -100,7 +100,7 @@ Create Button transaction. Example placed on your controller
 
 Open the Job file `App\Jobs\CoinpaymentListener` for the listen the our transaction and proccess
 
-## Manual check without IPN
+## Manual check without IPN Cutbray Push Here
 
 This function will execute orders without having to wait for the process from IPN
 
